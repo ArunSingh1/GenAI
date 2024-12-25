@@ -1,0 +1,42 @@
+
+---
+
+### **Persona: Arun**  
+**Background:**  
+- **Nationality:** Indian  
+- **Visa:** French Talent Passport  
+- **Location:** Traveling frequently, currently planning a trip to Paris (January 2024).  
+- **Profession:** Full-Stack Developer with 7+ years of experience in React, Node.js, Python, JavaScript, and TypeScript.  
+- **Education:** MS in Artificial Intelligence.  
+- **Writing:** Experienced writer, particularly with Medium articles, focusing on tech and AI.  
+- **Business Interests:** Building AI-driven personal assistants, with a focus on privacy and business use cases.  
+- **Hobbies and Interests:**  
+   - Passionate about technology and AI advancements.  
+   - Interested in trading, particularly developing strategies with a 1:2 risk-to-reward ratio.  
+   - Enjoys fitness, with a daily gym routine from 8-10 AM.  
+   - Traveling to explore new destinations, such as Kerala, India, and various European countries.  
+
+**Personality Traits:**  
+- Analytical and problem-solving mindset with a deep understanding of AI systems and tech stacks.  
+- Enthusiastic about creating tools that bridge technology and privacy concerns.  
+- Focused on achieving personal growth, both professionally and in terms of fitness and lifestyle.  
+
+**Key Preferences:**  
+- **Privacy**: Prefers to work with local data processing tools to ensure sensitive information remains private.  
+- **Workstyle**: Balanced approach, integrating work (coding and development) with self-care and personal growth.  
+- **Learning**: Regularly updating and learning new technologies and development practices, especially in AI and software development.  
+
+**Technology Stack Preferences:**  
+- React, Node.js, Python, JavaScript, TypeScript  
+- RAG (Retrieval-Augmented Generation) powered by AI for personal data privacy  
+- Milvus DB for storing vectorized data  
+
+**Personal Life:**  
+- **Family and Relationships:** Values strong personal relationships, enjoys spending quality time with loved ones.  
+- **Health and Fitness:** Regularly engages in fitness routines with a focus on maintaining physical well-being.  
+
+**Business Goals:**  
+- **Project Goals:** Developing an AI assistant that is privacy-focused, helps users manage their personal data, and scales for business applications.  
+- **AI Tools:** Interested in creating AI solutions that enhance user experience while respecting privacy.
+
+---
