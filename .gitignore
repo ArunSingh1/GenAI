@@ -1,2 +1,11 @@
 .genaienv/
-.env/
+
+# Ignore .env file containing sensitive information
+.env
+
+# Ignore virtual environment directory
+# .genaienv/
+
+# Other files and directories to ignore
+*.pyc
+__pycache__/
